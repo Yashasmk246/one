@@ -1,0 +1,3 @@
+print("hello master")
+print("hello line")
+print("hello range")
